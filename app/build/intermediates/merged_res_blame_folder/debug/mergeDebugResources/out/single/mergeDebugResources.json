@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_running.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/running.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_awards.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/awards.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_stayfit.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/stayfit.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.fittrack.app-main-66:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_water.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/water.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_cycling.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/cycling.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_growth.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/growth.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.fittrack.app-main-66:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_gym.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/gym.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_sleep.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/sleep.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_calories.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/calories.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.fittrack.app-main-66:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_restday.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/restday.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_rest_timer.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/rest_timer.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_minutes.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/minutes.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable_ic_stat_fittrack.xml.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable/ic_stat_fittrack.xml"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.fittrack.app-main-66:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_body_weight.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/body_weight.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/font_poppins_regular.ttf.flat",
+        "source": "com.example.fittrack.app-main-66:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/font_outfit_bold.ttf.flat",
+        "source": "com.example.fittrack.app-main-66:/font/outfit_bold.ttf"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_workouts.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/workouts.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/font_poppins_light.ttf.flat",
+        "source": "com.example.fittrack.app-main-66:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_swimming.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/swimming.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_exercises.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/exercises.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_hiit.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/hiit.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_daily_streak.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/daily_streak.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_delete.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/delete.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/font_outfit_regular.ttf.flat",
+        "source": "com.example.fittrack.app-main-66:/font/outfit_regular.ttf"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fittrack.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/font_poppins_bold.ttf.flat",
+        "source": "com.example.fittrack.app-main-66:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_yoga.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/yoga.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_food.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/food.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/drawable-nodpi_fittrack_logo.png.flat",
+        "source": "com.example.fittrack.app-main-66:/drawable-nodpi/fittrack_logo.png"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/font_poppins_medium.ttf.flat",
+        "source": "com.example.fittrack.app-main-66:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.example.fittrack.app-debug-64:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.fittrack.app-main-66:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- True black window so there is no flash before Compose draws -->
+    <style name="Theme.FitTrack" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/fit_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:colorAccent">#A5FF00</item>
+    </style>
+</resources>

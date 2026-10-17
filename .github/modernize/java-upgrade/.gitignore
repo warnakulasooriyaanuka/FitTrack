@@ -1,0 +1,22 @@
+
+# Gradle cache and generated files
+.gradle/
+**/.gradle/
+build/
+**/build/
+
+# Local Android SDK settings
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Generated Android files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
